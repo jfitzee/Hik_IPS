@@ -1,3 +1,7 @@
+<img width="246" height="122" alt="Screenshot 2024-03-27 100345" src="https://github.com/user-attachments/assets/262eb52a-242d-4b80-8bea-b39238a9bdd5" />
+
+<img width="241" height="186" alt="Screenshot 2024-03-22 083725" src="https://github.com/user-attachments/assets/9f41cd23-6b2b-467d-b8fb-3174c9d40d22" />
+
 The first time you run it, enter your latitude and longitude coordinates... you can get these by right clicking on you location in google maps... after entering these, you should see correct sunrise/sunset times for the current date/location...
 
 enter your camera's username and password... enter an IP address and port number for a camera you want to add... for cameras on the LAN, the port number will most likely be 80... for cameras connected to NVR PoE ports, use the NVR IP address and 65001, 65002, etc. as the port number... "virtual host" must be enabled on the NVR for this to work...
