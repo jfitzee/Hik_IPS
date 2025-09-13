@@ -1,6 +1,6 @@
 <img width="553" height="274" alt="Screenshot 2024-03-27 100345" src="https://github.com/user-attachments/assets/262eb52a-242d-4b80-8bea-b39238a9bdd5" />
 
-<img width="241" height="186" alt="Screenshot 2024-03-22 083725" src="https://github.com/user-attachments/assets/9f41cd23-6b2b-467d-b8fb-3174c9d40d22" />
+<img width="361" height="279" alt="Screenshot 2024-03-22 083725" src="https://github.com/user-attachments/assets/9f41cd23-6b2b-467d-b8fb-3174c9d40d22" />
 
 
 The first time you run it, enter your latitude and longitude coordinates... you can get these by right clicking on you location in google maps... after entering these, you should see correct sunrise/sunset times for the current date/location...
